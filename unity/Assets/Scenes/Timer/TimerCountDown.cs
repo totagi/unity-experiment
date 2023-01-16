@@ -6,6 +6,7 @@ public class TimerCountDown : MonoBehaviour
     [SerializeField] double m_CounterMax;
     [SerializeField] double m_Counter;  // double
     [SerializeField] TextMeshProUGUI m_CounterText;
+
     // Start is called before the first frame update
     void Start()
     {
